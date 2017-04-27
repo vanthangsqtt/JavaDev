@@ -1,0 +1,2 @@
+AWTCounterAnonymousInnerClass$1
+AWTCounterAnonymousInnerClass
